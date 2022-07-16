@@ -1,6 +1,11 @@
-# Professional Experiences of Youngsuk Lee - Detailed Descriptions
+# Detailed Description of Professional Experiences - Selected
 
 ## NatWest, London, Jan 2013 - Aug 2022
+
+* The table below shows a *selection* of my *hands-on* works. 
+* There are more hands-on works by myself but omitted from the table. 
+* Of course, it does not include those great works achieved primarily by my other team members with little involvement from myself as a manager. 
+
 
 | period | subject | <span style="display: inline-block; width:300px">description</span> | skills | my role | regulatory approval |
 | :----: | :-----: | :---------: | :----------------: | :-----: | :----------: |
