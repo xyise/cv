@@ -2,7 +2,7 @@
 
 ## NatWest, London, Jan 2013 - Aug 2022
 
-| period | subject | description | skills | my role | regulatory approval |
+| period | subject | <span style="display: inline-block; width:300px">description</span> | skills | my role | regulatory approval |
 | :----: | :-----: | :---------: | :----------------: | :-----: | :----------: |
 | 2013 | Time series outlier detection and filling| Developed methods to detect outliers of time series data and fix them; Implemented into the new market data system for on-going detection/fix; Developed a GUI app to scan all time series quickly and apply the methods to historical data at the time|algorithm development and implementation, linear algebra; C#, Winform, SQL|fully hands-on, leading 2 team members | not applicable| 
 | 2014 | SFT VaR | Developed a methodology to measure potential future exposures to repo-like products | market risk VaR, collateral/margin; Matlab| partially hands-on, guiding 1 team member | not applicable (internal use only)|

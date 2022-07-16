@@ -1,6 +1,6 @@
 # Wecome
 
-This is a site by Youngsuk Lee. 
+This is a site of Youngsuk Lee. 
 
 * This repository contains additional materials referenced in my resume/CV. 
 * This repository does NOT contain the actual resume/CV as I modify it according to the position I am applying for. 
