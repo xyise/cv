@@ -1,22 +1,26 @@
 # General
-* IR: Interest Rate
 * FX: Foreign Exchange
+* ISDA: [International Swaps and Derivatives Association](https://www.isda.org/)
+* IR: Interest Rate
+* RWA: Risk Weighted Asset. See [wiki](https://en.wikipedia.org/wiki/Risk-weighted_asset).
+
 
 # Counterparty Credit Risk
-* CVA: Credit Valuation Adjustment. See, for example, [this](https://www.bis.org/bcbs/publ/d325.pdf)
-* EPE: Expected Positive Exposure, [wiki](https://en.wikipedia.org/wiki/Potential_future_exposure)
+* CVA: Credit Valuation Adjustment. See, for example, [this](https://www.bis.org/bcbs/publ/d325.pdf) page.
+* EPE: Expected Positive Exposure. See [wiki](https://en.wikipedia.org/wiki/Potential_future_exposure).
 * IM: initial margin
-* PFE: Potential Future Exposure, [wiki](https://en.wikipedia.org/wiki/Potential_future_exposure)
+* PFE: Potential Future Exposure. See [wiki](https://en.wikipedia.org/wiki/Potential_future_exposure).
+* RFR: Risk Free Rate. See, for example, [Bank of England](https://www.bankofengland.co.uk/markets/transition-to-sterling-risk-free-rates-from-libor/working-group-on-sterling-risk-free-reference-rates).
 * SIMM: [Standard Initial Margin Model by ISDA](https://www.isda.org/category/margin/isda-simm/)
 * VM: variation margin
 
 # Market Risk
 * ES: Expected Shortfall
 * FRTB: [Fundamental Review of Trading Book](https://www.bis.org/bcbs/publ/d457.pdf)
-* IRC: Incremental risk charge. See, for example, [this](https://www.eba.europa.eu/guidelines-on-the-incremental-default-and-migration-risk-charge-ir-1)
-statement/2020/ss1313update.pdf)
-* RNIV: Risk-not-in-VaR. See [this](https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-* SES: Stressed Expected Shortfall
-* VaR: Value-at-Risk. [wiki](https://en.wikipedia.org/wiki/Value_at_risk)
+* IRC: Incremental risk charge. See, for example, [this](https://www.eba.europa.eu/guidelines-on-the-incremental-default-and-migration-risk-charge-ir-1) page.
+* RNIV: Risk-not-in-VaR. See [this](https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2020/ss1313update.pdf) document.
+* SES: Stressed Expected Shortfall under FRTB.
+* VaR: Value-at-Risk. See [wiki](https://en.wikipedia.org/wiki/Value_at_risk).
 
 # Products
-* CDS: credit default swap [wiki](https://en.wikipedia.org/wiki/Credit_default_swap)
+* CDS: credit default swap. See [wiki](https://en.wikipedia.org/wiki/Credit_default_swap).
