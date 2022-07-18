@@ -2,7 +2,7 @@
 
 For acronyms appearing in my resume, please see [Glossary](https://github.com/xyise/cv/blob/main/shelf/Glossary.md).
 
-## Experiences in Detail
+## Professional Experiences in Detail
 
 In reverse chronological order. 
 
@@ -10,4 +10,4 @@ In reverse chronological order.
 * [NatWest, Nov 2010 - Dec 2012](shelf/2013-2022_NatWest.md)
 
 
-**Note**: This repository does NOT contain the actual resume/CV as I modify it according to the position I am applying for. 
+**Note**: This repository does NOT contain the actual resume/CV as it would be modified to reflect the opening.
