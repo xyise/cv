@@ -1,6 +1,4 @@
-# Glossary
-
-## Acronyms
+# Acronyms
 
 * CDS: credit default swap. See [wiki](https://en.wikipedia.org/wiki/Credit_default_swap).* FX: Foreign Exchange
 * CVA: Credit Valuation Adjustment. See, for example, [this](https://www.bis.org/bcbs/publ/d325.pdf) page.

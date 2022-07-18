@@ -1,6 +1,8 @@
 # Support Materials for Youngsuk Lee's Resume
 
-For acronyms appearing in my resume, please see [Glossary](https://github.com/xyise/cv/blob/main/shelf/Glossary.md).
+## Acronyms
+
+See [here](shelf/Acronym.md) for acronyms appearing in my resume.
 
 ## Professional Experiences in Detail
 
