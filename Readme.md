@@ -1,4 +1,4 @@
-# Support Materials for Youngsuk Lee's Resume
+# Supporting Materials for Youngsuk Lee's Resume
 
 ## Acronyms
 
