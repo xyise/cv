@@ -1,8 +1,6 @@
 # Supporting Materials for Youngsuk Lee's Resume
 
-## Acronyms
-
-See [here](shelf/Acronym.md) for acronyms appearing in my resume.
+**Acronyms**: See [here](shelf/Acronym.md) for acronyms appearing in my resume.
 
 ## Professional Experiences in Detail
 
